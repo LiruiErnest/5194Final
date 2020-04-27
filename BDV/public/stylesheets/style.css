@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+
+
+#canvas-frame {
+    border: none;
+    cursor: pointer;
+    margin:auto;
+    width: 100%;
+    height: 100%;
+    background-color: #EEEEEE;
+}
